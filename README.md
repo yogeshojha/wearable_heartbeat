@@ -34,8 +34,9 @@ If everything worked fine, you should be able to ```#include "LedControlMS.h"```
 <img src="images/IMG_0493-01.jpeg"/>
 <ul>
   <li>Connecing 8 X 8 Matrix Module to Arduino</li>
-                    LED Matrix            Arduino
-                    VCC                        5V
+                    | LED Matrix    |        Arduino|
+                    | ------------- |:-------------:|
+                    | VCC           |             5V|
                     GND                       GND
                     DIN                       D12
                     CS                        D10
