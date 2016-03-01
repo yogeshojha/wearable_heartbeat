@@ -23,3 +23,14 @@ To install the library in your Arduino IDE:
 - make sure that you close all the open windows of the Arduino IDE
 - look for the libraries folder inside the folder where you installed the Arduino IDE
 - copy the uncompressed LedControlMS folder (the folder with all its content)  inside the libraries folder
+
+If everything worked fine, you should be able to ```#include "LedControlMS.h"```
+
+<a href="http://www.instructables.com/files/orig/F79/UC7X/HKCJMPGV/F79UC7XHKCJMPGV.zip"> Download the LEDControl ZIP here </a>
+
+<a href="http://www.instructables.com/id/LED-Matrix-with-Arduino/?ALLSTEPS">More tutorial on 8 X 8 Matrix</a>
+
+# Wiring
+<img src="images/IMG_0493-01.jpeg"/>
+
+
