@@ -34,6 +34,6 @@ If everything worked fine, you should be able to ```#include "LedControlMS.h"```
 <img src="images/IMG_0493-01.jpeg"/>
 
 # Final Output
-<img src="Screenshot_2016-03-02-02-51-39-01.jpeg">
+<img src="images/Screenshot_2016-03-02-02-51-39-01.jpeg">
 
 #Video
