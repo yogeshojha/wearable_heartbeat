@@ -1,4 +1,14 @@
 # wearable_heartbeat
 This is a demonstration of wearable technology using arduino. 
+
 # Description
-Ever wanted your heart beat
+Build this fun project/circuit to show the rythm of your beating heart using your own wearable electronic platform. 
+
+# Requirements
+<ol>
+  <li>Arduino</li>
+  <li>Pulse Sensor (pulsesensor.com) <a href ="http://pulsesensor.com">Buy Here</a></li>
+  <li>8 X 8 LED Matrix</li>
+  <li>Jumper Wires</li>
+</ol>
+
