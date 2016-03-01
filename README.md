@@ -34,13 +34,33 @@ If everything worked fine, you should be able to ```#include "LedControlMS.h"```
 <img src="images/IMG_0493-01.jpeg"/>
 <ul>
   <li>Connecing 8 X 8 Matrix Module to Arduino</li>
-                    | LED Matrix    |        Arduino|
-                    | ------------- |:-------------:|
-                    | VCC           |             5V|
-                    GND                       GND
-                    DIN                       D12
-                    CS                        D10
-                    CLK                       D11
+</br>
+                    <table>
+                      <tr>
+                        <th>LED Matrix</th>
+                        <th>Arduino Pin</th>
+                      </tr>
+                      <tr>
+                        <td>VCC</td>
+                        <td>5V</td>
+                      </tr>
+                      <tr>
+                        <td>GND</td>
+                        <td>GND</td>
+                      </tr>
+                      <tr>
+                        <td>DIN</td>
+                        <td>D12</td>
+                      </tr>
+                      <tr>
+                        <td>CS</td>
+                        <td>D10</td>
+                      </tr>
+                      <tr>
+                        <td>CLK</td>
+                        <td>D11</td>
+                      </tr>
+                    </table>
 <ul>
 # Final Output
 <img src="images/Screenshot_2016-03-02-02-51-39-01.jpeg">
