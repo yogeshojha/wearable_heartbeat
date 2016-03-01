@@ -8,9 +8,18 @@ Build this fun project/circuit to show the rythm of your beating heart using you
 <ol>
   <li>Arduino (We are using Arduino Uno Board, but you can use any Arduino (compatible) board)</li>
   <li>Pulse Sensor (pulsesensor.com) <a href ="http://pulsesensor.com">Buy Here</a></li>
-  <li>8 X 8 LED Matrix</li>
+  <li>8 X 8 LED Matrix </br>
+  
+  (You can find the matrix module at many online stores (<a href="http://dx.com/p/max7219-dot-matrix-module-w-5-dupont-lines-184854">Buy Here </a>))
+  </br>This includes a 8x8 LED matrix (red colour), a MAX7219 chip to control the LEDs, header PINs and sockets, one 10KOhm resistor, a 100nF capacitor, a 10uF electrolic capacitor and a PCB where everything is connected together. You can purchase the module already soldered and mounted
+  </li>
   <li>Jumper Wires</li>
 </ol>
 
 # Dependencies
-This project requires 
+This project requires **LEDControl** Arduino Library. 
+To install the library in your Arduino IDE:
+- uncompress the library file that you just downloaded
+- make sure that you close all the open windows of the Arduino IDE
+- look for the libraries folder inside the folder where you installed the Arduino IDE
+- copy the uncompressed LedControlMS folder (the folder with all its content)  inside the libraries folder
